@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/juanjos41386868" target="blank"><img src="https://img.shields.io/twitter/follow/juanjos41386868?logo=twitter&style=for-the-badge" alt="juanjos41386868" /></a> </p>
 
-- 🔭 I’m currently working as Freelancer [Luz Mar Drogueria](https://droguerialuz.vercel.app/)
+- 🔭 I’m currently working in SIGAWEB as Frontend Developer jr 
 
 - 🌱 I’m currently learning **Next Js, Node Js, TypeScript**
 
